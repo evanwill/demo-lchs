@@ -2,6 +2,8 @@
 
 demo example.
 
+this is not auto saved
+
 generated from collectionbuilder-gh.
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
