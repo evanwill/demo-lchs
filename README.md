@@ -1,4 +1,8 @@
-# collectionbuilder-gh
+# demo-lchs
+
+demo example.
+
+generated from collectionbuilder-gh.
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
